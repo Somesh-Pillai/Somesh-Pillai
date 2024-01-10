@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somesh-Pillai
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently an Application Developer
-- 💞️ I’m working with NLP and Computer Vision
+- 👀 I’m interested in Software development
+- 🌱 I’m currently a Microservices Developer
+- 💞️ I’m working with Reactive Springboot and Spring Security
 - 📫 How to reach me: imsomeshp18@gmail.com
 
 <!---
